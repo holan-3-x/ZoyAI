@@ -1,0 +1,43 @@
+First Year,,
+,,
+,IT 101,COMPUTER SKILLS
+,,"To introduce the student to a variety of terms, definitions, and concepts that apply to the design and use of computers, and to give ?hands on? experience with Microsoft Office applications: Word, Excel, using Windows Operating System. And to teach basic internet usage and to print documents. Also lab assignments will be combined for a comprehensive study. Students will be thoroughly tested on their ability to recall facts about computers and the use of applications."
+,IT 103,INTRODUCTION TO INFORMATION TECHNOLOGY I
+,,"This course introduces Information Technology. Information technology (IT) is the application of computers and telecommunications equipment to store, retrieve, transmit and manipulate data. The goal of this course is to help students interested in an information technology career decide where their interests lie."
+,IT 106,INTRODUCTION TO INFORMATION TECHNOLOGY II
+,,"This course introduces Information Technology. Information technology (IT) is the application of computers and telecommunications equipment to store, retrieve, transmit and manipulate data. The goal of this course is to help students interested in an information technology career decide where their interests lie."
+,IT 119,PROGRAMMING FUNDAMENTALS (C++)
+,,"Students will learn by the course essential programming concepts, flow charts, and C++ programming language syntax. Also, they will learn how to write simple programs by using control structures, operands, and arrays."
+,PHYS 101,GENERAL PHYSICS I
+,,"Measurements, Vectors, Kinematics, Newton?s laws of motion, work and energy, conservation of energy, rotation of rigid bodies about a fixed axis."
+,PHYS 102,GENERAL PHYSICS II
+,,"This second part of the physics course includes the fundamental concepts about electrostatics, electric fields, electric potential, capacitors and dielectrics, electric current, DC circuits, current and various media, magnetism, magnetic force, electromagnetic force, electromagnetic induction, AC circuits. The course also includes laboratory activities which include some basic physics experiments related to electricity."
+,,
+,,
+Second Year,,
+,IT 203,PROGRAMMING I
+,,"Intermediate knowledge about programming as pointers, strings, and user-developed methods in C++ and intro to Object-Oriented Programming concepts. Developing game type, and file in/out software."
+,IT 204,PROGRAMMING II
+,,"Intermediate knowledge about programming as pointers, strings, and user-developed methods in C++ and intro to Object-Oriented Programming concepts. Developing game type, and file in/out software."
+,IT 215,DATABASE SYSTEMS I
+,,"This course introduces Databases. A database is an organized collection of data. The data are typically organized to model relevant aspects of reality in a way that supports processes requiring this information; For example, modeling the availability of rooms in hotels in a way that supports finding a hotel with vacancies. The main objectives of this course are: Design methodology for databases and verifying their design correctness, and using queries."
+,IT 216,DATABASE SYSTEMS II
+,,"This course is the 2nd part of the Database Systems 2.Normalization ? Denormalization, SQL, Aggregate Functions. Joining Tables, Indexing and Optimization"
+,IT 231,LOGIC DESIGN
+,,"Basic concepts and tools (number-base systems, switching algebra, logic gates). Design and analysis of combinational and sequential logic blocks, (adder, subtractor, decoders, encoders, multiplexer, flip-flop, register, counter etc.). Introduction to Hardware Descriptive Language, Computer aided design, analysis and synthesis of digital circuits, use of Verilog simulator. Introduction to FPGAs (Field Programmable Gate Arrays)."
+,IT 232,COMPUTER HARDWARE
+,,"This course provides a comprehensive understanding of computer systems and the essential components and peripherals associated with computers. Topics include history of computer systems, motherboard components, I/O systems and methods of communication, processors, memory, graphics and sound adapters, storage media, and relevant peripherals."
+,,Also addresses recent advances in computer architectures and computer hardware and how they affect computer performance. Presentations of actual hardware are included so that students can gain experience in identifying the various internal and external components of a PC
+,IT 234,MULTIMEDIA TECHNOLOGIES
+,,The course also addresses recent advances in computer architectures and computer hardware and how they affect computer performance. Presentations of actual hardware are included so that students can gain experience in identifying the various internal and external components of a PC.
+,IT 235,DISCRETE MATHEMATICS
+,,"Discrete mathematics is important are in applied mathematics. It is the study of mathematical structures that are fundamentally discrete rather than continuous. It includes linear programming, coding theory, and theory of computing."
+,IT 347,PROBABILITIES AND STATISTICS
+,,"This course plans to give a comprehension of the essential ideas in likelihood hypothesis and factual investigation. Understudies will gain proficiency with the crucial hypothesis of dissemination of irregular factors, the fundamental hypothesis, and strategies of boundary assessment and trial of theories"
+,IT 245,ACADEMIC ORAL PRESENTATIONS
+,,This course will provide students with practice in strategies for effective oral and written presentation development; choosing relevant topics; research and acknowledging sources; use of powerpoint; timing; giving and taking feedback.
+,,
+,,
+Third Year,,
+,IT 311,OBJECT ORIENTED PROGRAMMING I
+,,"Continuing from the foundations of programming in C++, this course starts introducing the students to the concepts of object-oriented programming, OOP, in general, and it is implementation. It will cover the concepts of encapsulation, inheritance, and polymorphism."
